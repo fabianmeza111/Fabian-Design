@@ -1,24 +1,24 @@
 /*LINKS EXTERNOS*/
 @font-face{
     font-family: "bagel";
-    src: url(/css/fonts/BagelFatOne-Regular.ttf);
+    src: url(./css/fonts/BagelFatOne-Regular.ttf);
 }
 
 @font-face {
     font-family: "quicksand-regular";
-    src: url(/css/fonts/quicksand/Quicksand-Regular.woff);
+    src: url(./css/fonts/quicksand/Quicksand-Regular.woff);
 }
 @font-face {
     font-family: "quicksand-medio";
-    src: url(/css/fonts/quicksand/Quicksand-Medium.woff);
+    src: url(./css/fonts/quicksand/Quicksand-Medium.woff);
 }
 @font-face {
     font-family: "quicksand-bold";
-    src: url(/css/fonts/quicksand/Quicksand-Bold.woff);
+    src: url(./css/fonts/quicksand/Quicksand-Bold.woff);
 }
 @font-face {
     font-family: "quicksand-semibold";
-    src: url(/css/fonts/quicksand/Quicksand-SemiBold.woff);
+    src: url(./css/fonts/quicksand/Quicksand-SemiBold.woff);
 }
 
 /*FUENTES*/
@@ -783,8 +783,8 @@ nav:hover{
    
     flex-shrink: 0;
     background-color: #e7670b;
-    mask-image: url(/images/identidad/logo-idea.svg);
-    -webkit-mask-image: url(/images/identidad/logo-idea.svg);
+    mask-image: url(./images/identidad/logo-idea.svg);
+    -webkit-mask-image: url(./images/identidad/logo-idea.svg);
     mask-repeat: no-repeat;
     mask-size: contain;
     mask-position: center;
@@ -798,7 +798,7 @@ nav:hover{
     min-height: 20vh;
 
     flex-shrink: 0;
-    mask-image: url(/images/identidad/logo-nun.svg);
+    mask-image: url(./images/identidad/logo-nun.svg);
     mask-repeat: no-repeat;
     
 }
@@ -813,7 +813,7 @@ nav:hover{
     
     
     flex-shrink: 0;
-    mask-image: url(/images/identidad/logo-nun.svg);
+    mask-image: url(./images/identidad/logo-nun.svg);
     mask-repeat: no-repeat;
     animation: brinco-solo 0.4s ease-out infinite;
    
@@ -1301,7 +1301,7 @@ nav:hover{
   opacity: 0;/* Oculto inicialmente */
   visibility: hidden; /* Oculto hasta que sea visible */
   background-color: #ffe7b3;/* Fondo del botón */
-  background-image: url(/images/arrow_up.svg);
+  background-image: url(./images/arrow_up.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 30px;
@@ -1320,7 +1320,7 @@ nav:hover{
 #back-to-up:hover {
   background-color: #e7670b;/* Cambia a un color más oscuro al pasar el mouse */
   box-shadow: 0 0 10px 10px #ffe7b3;
-  background-image: url(/images/arrow_up-claro.svg);
+  background-image: url(./images/arrow_up-claro.svg);
 }
 
 #back-to-up:active {
