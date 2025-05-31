@@ -344,8 +344,8 @@ nav:hover{
     min-height: 20vh;
     flex-shrink: 0;
     background-color: #e7670b;
-    mask-image: url(/images/identidad/logo-isotipo-na.svg);
-    -webkit-mask-image: url(/images/identidad/logo-isotipo-na.svg);
+    mask-image: url(../images/identidad/logo-isotipo-na.svg);
+    -webkit-mask-image: url(../images/identidad/logo-isotipo-na.svg);
     mask-repeat: no-repeat;
     mask-size: contain;
     mask-position: center;
@@ -357,8 +357,8 @@ nav:hover{
 #hero .col-1:hover{
     width: 35%;
     
-    mask-image: url(/images/identidad/logo-nun.svg);
-    -webkit-mask-image: url(/images/identidad/logo-nun.svg);
+    mask-image: url(../images/identidad/logo-nun.svg);
+    -webkit-mask-image: url(../images/identidad/logo-nun.svg);
     mask-repeat: no-repeat;
     mask-size: contain;
     mask-position: center;
@@ -368,8 +368,8 @@ nav:hover{
 #hero .container:active .col-1{
     width: 35%;
     
-    mask-image: url(/images/identidad/logo-nun.svg);
-    -webkit-mask-image: url(/images/identidad/logo-nun.svg);
+    mask-image: url(../images/identidad/logo-nun.svg);
+    -webkit-mask-image: url(../images/identidad/logo-nun.svg);
     mask-repeat: no-repeat;
     mask-size: contain;
     mask-position: center;
